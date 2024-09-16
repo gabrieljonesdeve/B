@@ -1,0 +1,8 @@
+// Importa Bootstrap Italia
+@import "~bootstrap-italia/scss/bootstrap-italia";
+
+// Sovrascrivi le variabili di Bootstrap Italia qui se necessario
+$primary: #ff5733; // Colore principale personalizzato, ad esempio un arancione
+
+// Altre personalizzazioni o importazioni di stili aggiuntivi
+// @import "custom-styles";

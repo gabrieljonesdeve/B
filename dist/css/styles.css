@@ -1,0 +1,29 @@
+/* Esempio di stili generati */
+
+:root {
+    --primary: #ff5733; /* Colore principale personalizzato */
+  }
+  
+  /* Stili di Bootstrap Italia */
+  
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #f8f9fa;
+  }
+  
+  .btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+  }
+  
+  /* Altri stili di Bootstrap Italia... */
+  
+  /* I tuoi stili personalizzati possono essere aggiunti qui */
+  .custom-class {
+    color: #333;
+    padding: 10px;
+  }
+  

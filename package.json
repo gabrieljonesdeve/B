@@ -1,0 +1,13 @@
+{
+  "name": "my-bootstrap-italia-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build-css": "sass src/scss/styles.scss dist/css/styles.css"
+  },
+  "dependencies": {
+    "bootstrap-italia": "^x.x.x"
+  },
+  "devDependencies": {
+    "sass": "^x.x.x"
+  }
+}
